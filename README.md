@@ -36,7 +36,7 @@
       const result = document.getElementById("result");
       if (enteredPassword === correctPassword) {
         result.style.color = "green";
-        result.textContent = "Félicitation! tu peux maintenant t'emparer de la clé du coffre 😊";
+        result.textContent = "Félicitation! tu peux maintenant t'emparer de la clé du coffre qui se cachait sous l'iptv 😊";
       } else {
         result.style.color = "red";
         result.textContent = "Erreur, réessaye !";
